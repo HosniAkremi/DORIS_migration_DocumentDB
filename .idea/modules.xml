@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DORIS_migration_DocumentDB.iml" filepath="$PROJECT_DIR$/.idea/modules/DORIS_migration_DocumentDB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/doris_migration_documentdb-build.iml" filepath="$PROJECT_DIR$/.idea/modules/doris_migration_documentdb-build.iml" />
+    </modules>
+  </component>
+</project>
